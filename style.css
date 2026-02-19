@@ -28,11 +28,11 @@ a {
 .hero {
   background: linear-gradient(to right, #031831, #1c419c);
   color: #ffffff;
-  padding: 40px;
+  padding: 20px;
 }
 
 #logo {
-  width: 200px;
+  width: 150px;
   margin-bottom: 40px;
 }
 
