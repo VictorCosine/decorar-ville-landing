@@ -27,13 +27,13 @@ a {
 
 .hero {
   background: linear-gradient(to right, #031831, #1c419c);
-  padding: 80px 20px;
   color: #ffffff;
+  padding: 40px;
 }
 
 #logo {
-  width: 260px;
-  margin-bottom: 20px;
+  width: 200px;
+  margin-bottom: 40px;
 }
 
 .hero h1 {
