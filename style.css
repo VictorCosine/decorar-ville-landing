@@ -37,13 +37,13 @@ a {
 }
 
 .hero h1 {
-  font-size: 3rem;
+  font-size: 25px;
   font-weight: 800;
   margin-bottom: 20px;
 }
 
-.hero p {
-  font-size: 1.2rem;
+.hero h2 {
+  font-size: 16px;
   margin-bottom: 35px;
 }
 
@@ -74,7 +74,7 @@ a {
 /* TITULOS */
 
 section h2 {
-  font-size: 2.2rem;
+  font-size: 18px;
   font-weight: 700;
   margin-bottom: 30px;
 }
@@ -314,6 +314,12 @@ footer {
   .avaliacoes-grid {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  .hero h1 {
+  font-size: 20px;
+  
+}
+
 }
 
 @media (max-width: 576px) {
@@ -326,6 +332,7 @@ footer {
   }
 
   .hero h1 {
-    font-size: 2rem;
-  }
+  font-size: 18px; 
+}
+
 }
